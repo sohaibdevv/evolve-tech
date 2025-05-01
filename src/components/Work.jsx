@@ -12,7 +12,7 @@ const Work = () => {
     },
     {
       title: "On-Site",
-      img: "/work/work2.png",
+      img: "/work/work2.jpg",
       bg: "bg-yellow-200",
       btn: "bg-yellow-300",
       border: "yellow",
