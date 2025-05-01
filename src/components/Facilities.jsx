@@ -37,7 +37,7 @@ const Facilities = () => {
             data-aos="fade-up"
             data-aos-duration="400"
           >
-            <Image src="/benefits/fc.avif" alt="Work image" fill sizes="100%" />
+            <Image src="/benefits/fc.avif" alt="Work image" fill sizes="100%" className="w-full h-full object-cover rounded-xl border-white border-4" />
           </div>
         </div>
 

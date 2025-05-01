@@ -42,7 +42,7 @@ const Main = () => {
         <Image
           src={MainPic}
           alt="Home Pic"
-          className="w-full h-full"
+          className="w-full h-full object-cover rounded-xl border-white border-4"
         />
       </div>
     </main>

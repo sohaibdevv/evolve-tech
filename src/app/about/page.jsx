@@ -38,7 +38,7 @@ const About = () => {
                 <label className="block mb-2 text-sm font-medium text-gray-600">
                   Total Workers:
                 </label>
-                <p className="text-lg font-semibold">250+</p>
+                <p className="text-lg font-semibold">150+</p>
               </div>
             </div>
             <div className="mt-4">
@@ -46,7 +46,7 @@ const About = () => {
                 Address:
               </label>
               <p className="text-lg font-semibold">
-                123 Company Street, Cityville, Country
+                123 Company Street, Karachi, Pakistan
               </p>
             </div>
             <div className="mt-4">
