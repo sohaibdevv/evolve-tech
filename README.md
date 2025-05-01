@@ -1,4 +1,4 @@
-# Evolve Tech
+# Evolve Tech | Build the Future with Us
 
 ## Live Demo: [Here!](https://evolve-tech.netlify.app/)
 
